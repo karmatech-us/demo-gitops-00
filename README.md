@@ -1,7 +1,10 @@
 # CI/CD GitOps Demo
-
 ---
 
+
+##  [**Video Lab Link:**](https://www.youtube.com/watch?v=JdMWLDY5UNM) Click this link to follow along with a video instruction.
+
+---
 ## Introduction
 
 - Let's dive into learning a CI/CD workflow with GitOps! I'm assuming you're a software developer with experience in Java, Git, Docker, and some DevOps tools—perfect for following along.
