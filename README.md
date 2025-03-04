@@ -1,6 +1,6 @@
 # CI/CD GitOps Demo
 ---
-
+![CI/CD Process Flow](phase1_gitops.png)
 
 ##  [**Video Lab Link:**](https://www.youtube.com/watch?v=JdMWLDY5UNM) Click this link to follow along with a video instruction.
 
